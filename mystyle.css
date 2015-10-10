@@ -26,3 +26,7 @@ div {
 .section-header {
 	font-size: 25;
 }
+
+.to-the-left {
+	text-align: left;
+}
