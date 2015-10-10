@@ -14,3 +14,7 @@ div {
     width: 100px;
     height: auto;
 }
+
+.circleimg {
+	border-radius: 50%;
+}
