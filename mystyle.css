@@ -44,6 +44,10 @@ div {
 	background-color: #005C99;
 }
 
-tr .spaceunder {
-	margin-bottom: 20;
+.workplace-header {
+	text-indent: 50px;
+}
+
+.workplace-info {
+	text-indent: 100px;
 }
