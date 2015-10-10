@@ -1,15 +1,13 @@
+div {
+	text-align: center;
+}
 .header {
 	font-family: Verdana, Geneva, sans-serif;
 	color: blue;
 	font-size: 25;
-	text-align: center;
-}
-
-.myface {
-	text-align: center;
 }
 
 .resize {
-    width: 400px;
+    width: 100px;
     height: auto;
 }
