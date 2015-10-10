@@ -29,13 +29,17 @@ div {
 }
 
 .ombre-blue1 {
-	background-color: #D1F0FF;
+	background-color: #B2E0FF;
 }
 
 .ombre-blue2 {
-	background-color: #D1F3FF;
+	background-color: #99D6FF;
 }
 
 .ombre-blue3 {
-	background-color: #D1F6FF;
+	background-color: #80CCFF;
+}
+
+.bar-graph-blue {
+	background-color: #005C99;
 }
