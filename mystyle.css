@@ -19,12 +19,9 @@ div {
 	border-radius: 50%;
 }
 
-.computer-text {
-	font-family: 'Nova Mono', ;
-}
-
 .section-header {
 	font-size: 25;
+	font-family: 'Nova Mono', ;
 }
 
 .to-the-left {
