@@ -43,3 +43,8 @@ div {
 .bar-graph-blue {
 	background-color: #005C99;
 }
+
+tr.spaceUnder > td
+{
+  padding-bottom: 1em;
+}
