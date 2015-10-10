@@ -4,3 +4,12 @@
 	font-size: 25;
 	text-align: center;
 }
+
+.myface {
+	text-align: center;
+}
+
+.resize {
+    width: 400px;
+    height: auto;
+}
