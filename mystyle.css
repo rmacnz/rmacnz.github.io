@@ -44,7 +44,6 @@ div {
 	background-color: #005C99;
 }
 
-tr.spaceUnder > td
-{
-  padding-bottom: 1em;
+table {
+    border-spacing: 5px;
 }
