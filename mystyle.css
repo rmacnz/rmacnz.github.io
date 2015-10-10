@@ -3,8 +3,11 @@ div {
 }
 .header {
 	font-family: 'Pacifico', cursive;
-	color: blue;
 	font-size: 50;
+}
+
+.aboutme {
+	background-color: #D1F0FF;
 }
 
 .resize {
