@@ -6,7 +6,7 @@ div {
 	font-size: 50;
 }
 
-.aboutme {
+body {
 	background-color: #D1F0FF;
 }
 
@@ -15,6 +15,10 @@ div {
     height: auto;
 }
 
-.circleimg {
+.circle-img {
 	border-radius: 50%;
+}
+
+.section-header {
+	font-family: 'Nova Mono', ;
 }
