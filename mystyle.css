@@ -44,6 +44,6 @@ div {
 	background-color: #005C99;
 }
 
-table {
-    border-spacing: 5px;
+tr .spaceunder {
+	margin-bottom: 20;
 }
