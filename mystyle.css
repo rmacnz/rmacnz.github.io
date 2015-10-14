@@ -59,3 +59,7 @@ th.bar-column {
 th.word-column {
 	width: 500px;
 }
+
+.footer-space {
+	padding-bottom: 500px;
+}
