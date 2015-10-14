@@ -52,6 +52,6 @@ div {
 	text-indent: 100px;
 }
 
-table {
-	border: 1px solid black;
+table, th, td {
+	border: 5px solid #80CCFF;
 }
