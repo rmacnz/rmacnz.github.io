@@ -52,6 +52,6 @@ div {
 	text-indent: 100px;
 }
 
-table, th, td {
-	border: 5px solid #80CCFF;
+.graph-table {
+	border: 5px solid #99D6FF;
 }
