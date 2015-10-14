@@ -44,14 +44,18 @@ div {
 	background-color: #005C99;
 }
 
-.workplace-header {
-	text-indent: 50px;
-}
-
 .workplace-info {
 	text-indent: 100px;
 }
 
 .graph-table {
 	border: 5px solid #99D6FF;
+}
+
+th.bar-column {
+	width: 200px;
+}
+
+th.word-column {
+	width: 200px;
 }
